@@ -24,12 +24,27 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="dnn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="math-function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="function-test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="command.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="math-function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="function-test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
